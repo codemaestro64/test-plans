@@ -47,3 +47,7 @@ dist
 
 # ignore system files
 .DS_Store
+
+# Python
+.venv
+hole-punch-interop/results/
