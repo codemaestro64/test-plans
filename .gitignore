@@ -49,5 +49,7 @@ dist
 .DS_Store
 
 # Python
-.venv
+*.egg-info/
+__pycache__/
+hole-punch-interop/impl/python/v0.2.9/.venv
 hole-punch-interop/results/
